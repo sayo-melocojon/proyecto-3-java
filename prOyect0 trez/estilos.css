@@ -1,0 +1,36 @@
+h1 {
+    color:sienna;
+    font-size :60px;
+    font-family:'sayo';
+}
+
+h2{
+    color:khaki;
+    font-size :50px;
+    font-family:'cam';
+}
+
+p{
+    color:coral;
+    font-size :50px;
+    font-family:'nuno';
+}
+
+p2{
+    color:indianred;
+    font-size :20px;
+    font-family:'Segoe UI', Open Sans, sans-serif;
+}
+
+@font-face {
+    font-family:'sayo';
+    src: url('Schoolwork-Regular.ttf');
+}
+@font-face {
+    font-family:'cam';
+    src: url('Better Together Script.ttf');
+}
+@font-face {
+    font-family:'nuno';
+    src: url('Hug Me Tight - OTF.otf');
+}
